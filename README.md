@@ -1,4 +1,4 @@
-# Calculadora de Média Escolar - Python
+## Calculadora de Média Escolar - Python
 
 Este projeto é um script simples em Python que solicita ao usuário duas notas, calcula a média aritmética entre elas e informa se o aluno foi **aprovado** ou **reprovado** com base no resultado.
 
